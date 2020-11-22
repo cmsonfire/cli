@@ -23,6 +23,6 @@
     "yargs": "^16.1.0"
   },
   "devDependencies": {
-    "changesets": "^1.0.2"
+    "@changesets/cli": "^2.11.2"
   }
 }
