@@ -1,0 +1,5 @@
+---
+"@cmsonfire/cli": patch
+---
+
+README
