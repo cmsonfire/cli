@@ -1,0 +1,28 @@
+{
+  "name": "@cmsonfire/cli",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "repository": "https://github.com/cmsonfire/cli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tony Alves (https://tony.alves.dev)",
+  "license": "MIT",
+  "bin": {
+    "cmsonfire": "./bin/index.js"
+  },
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "firebase-admin": "^9.2.0",
+    "gray-matter": "^4.0.2",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {
+    "changesets": "^1.0.2"
+  }
+}
