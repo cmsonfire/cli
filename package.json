@@ -1,6 +1,6 @@
 {
   "name": "@cmsonfire/cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The CLI tool to import/export documents based on config for the CMS",
   "main": "index.js",
   "module": "index.js",
