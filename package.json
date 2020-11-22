@@ -7,7 +7,8 @@
   "type": "module",
   "repository": "https://github.com/cmsonfire/cli",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "release": "yarn changeset publish",
+    "test": "echo \"Warning: Need tests ASAP\" && exit 0"
   },
   "keywords": [],
   "author": "Tony Alves (https://tony.alves.dev)",
