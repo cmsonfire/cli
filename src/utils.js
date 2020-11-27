@@ -63,6 +63,7 @@ export const getCollectionFiles = async (app, collection) => {
           id: doc.id,
           file: data.path || "",
           content,
+          slug: data.slug,
         });
       });
       return files;
